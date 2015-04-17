@@ -1,0 +1,22 @@
+INDEX VERSION 1.127+C:\Users\Michael\Documents\GitHub\SimpleJava\.metadata\.plugins\org.eclipse.jdt.core
+3481376722.index
+3738056601.index
+263653558.index
+273630926.index
+1686129454.index
+1850836779.index
+3757693227.index
+3853765516.index
+1576605195.index
+1409615632.index
+3868037391.index
+984039841.index
+2529892330.index
+2231383836.index
+2850505894.index
+1445806034.index
+182386966.index
+533247707.index
+3911285979.index
+1407158520.index
+2312849835.index
